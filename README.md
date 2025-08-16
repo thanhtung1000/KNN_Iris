@@ -8,7 +8,7 @@ Bộ dữ liệu sử dụng: **Iris Dataset** — gồm 150 mẫu, chia thành 
 - *Iris versicolor*
 - *Iris virginica*
 
----
+
 
 ##  Yêu cầu hệ thống
 - Python >= 3.7
@@ -17,10 +17,9 @@ Bộ dữ liệu sử dụng: **Iris Dataset** — gồm 150 mẫu, chia thành 
   - `pandas`
   - `numpy`
   - `scikit-learn`
+  - `Run: streamlit run Iris_web.py`
+<img width="798" height="563" alt="image" src="https://github.com/user-attachments/assets/2fbd1d4d-b0ce-45f3-9885-6987a17de799" />
+<img width="808" height="606" alt="image" src="https://github.com/user-attachments/assets/515febeb-3114-4fa0-bd52-7b962a64625e" />
 
-Cài đặt nhanh toàn bộ:
-```bash
-pip install streamlit pandas numpy scikit-learn
-RUN: streamlit run Iris_web.py
-<img width="880" height="759" alt="image" src="https://github.com/user-attachments/assets/02894fe6-6dc5-420f-9b37-9f09c81ec241" />
-<img width="817" height="601" alt="image" src="https://github.com/user-attachments/assets/43d675cb-fc02-4c28-bfc2-be7e62486ee4" />
+
+
